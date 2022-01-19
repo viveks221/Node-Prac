@@ -30,4 +30,5 @@ curl of the request
 curl --location --request GET 'http://localhost:3000/get'
 
 ## img of table
-![image info](./pictures/image.png)
+![image info](./candidatetable.png)
+![image info](./test_score.png)
