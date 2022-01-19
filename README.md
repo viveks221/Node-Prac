@@ -28,3 +28,6 @@ curl --location --request POST 'http://localhost:3000/insert-score' \
 it is an get request used to get average of each round and candidate scoring highest mark 
 curl of the request
 curl --location --request GET 'http://localhost:3000/get'
+
+## img of table
+![image info](./pictures/image.png)
